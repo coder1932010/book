@@ -1,0 +1,8 @@
+.books_mainDiv{
+    border: 1px pink;
+}
+.books_mainDiv img{
+    width: 100%;
+}
+.books_mainDiv h5 ,.books_mainDiv p{
+    margin: 20px;
